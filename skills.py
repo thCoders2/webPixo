@@ -1,6 +1,7 @@
 class skillPixo:
     guiaNiveis = {
         'basico':['rabiscar'],
+        'criativo': ['duplicadoLine', '
         'desenrolo':['degrade', 'linesWave', 'grafite,]
     }
     pass
